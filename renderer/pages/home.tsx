@@ -17,7 +17,7 @@ function Home() {
           />
         </div>
         <h1 className="text-4xl font-bold text-gray-900">
-          Welcome Naeem
+          Welcome this is version 1.0.5
         </h1>
         <p className="text-xl text-gray-600 text-center max-w-2xl">
           Your next-generation AI-powered desktop application built with Electron and Next.js

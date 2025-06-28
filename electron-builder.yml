@@ -13,7 +13,7 @@ publish:
   provider: github
   owner: thisnaeem
   repo: electron-ai
-  private: false
+  private: true
   releaseType: release
 
 win:
